@@ -1,0 +1,11 @@
+C:\Users\tomal\source\repos\WebSocketsServicios.Api\WebSocketsServicios.Api\bin\Debug\WebSocketsServicios.Api.exe.config
+C:\Users\tomal\source\repos\WebSocketsServicios.Api\WebSocketsServicios.Api\bin\Debug\WebSocketsServicios.Api.exe
+C:\Users\tomal\source\repos\WebSocketsServicios.Api\WebSocketsServicios.Api\bin\Debug\WebSocketsServicios.Api.pdb
+C:\Users\tomal\source\repos\WebSocketsServicios.Api\WebSocketsServicios.Api\bin\Debug\Fleck.dll
+C:\Users\tomal\source\repos\WebSocketsServicios.Api\WebSocketsServicios.Api\obj\Debug\WebSocketsServicios.Api.csproj.AssemblyReference.cache
+C:\Users\tomal\source\repos\WebSocketsServicios.Api\WebSocketsServicios.Api\obj\Debug\WebSocketsServicios.Api.csproj.CoreCompileInputs.cache
+C:\Users\tomal\source\repos\WebSocketsServicios.Api\WebSocketsServicios.Api\obj\Debug\WebSocke.5A05B12F.Up2Date
+C:\Users\tomal\source\repos\WebSocketsServicios.Api\WebSocketsServicios.Api\obj\Debug\WebSocketsServicios.Api.exe
+C:\Users\tomal\source\repos\WebSocketsServicios.Api\WebSocketsServicios.Api\obj\Debug\WebSocketsServicios.Api.pdb
+C:\Users\tomal\source\repos\WebSocketsServicios.Api\WebSocketsServicios.Api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tomal\source\repos\WebSocketsServicios.Api\WebSocketsServicios.Api\bin\Debug\Newtonsoft.Json.xml
